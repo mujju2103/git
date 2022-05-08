@@ -6,3 +6,5 @@ dark mode
 payment
 send money
 resive money
+paisa
+chaiye
