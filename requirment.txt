@@ -3,3 +3,6 @@ emoji
 type option
 vibrent
 dark mode
+payment
+send money
+resive money
